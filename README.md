@@ -53,10 +53,10 @@ Part 2:
 ## References
 
 Asset attributions:
-    - Meta XR All-in-One SDK: https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657
-    - Low Poly Pack - Environment Lite: https://assetstore.unity.com/packages/3d/props/exterior/low-poly-pack-environment-lite-102039
-    - Cola Can: https://assetstore.unity.com/packages/3d/cola-can-96659
-    - Stylized Low Poly Rocks: https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-low-poly-rocks-271334
-    - Boats - PolyPack: https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866
-    - Fish - PolyPack: https://assetstore.unity.com/packages/3d/characters/animals/fish/fish-polypack-202232
+- Meta XR All-in-One SDK: https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657
+- Low Poly Pack - Environment Lite: https://assetstore.unity.com/packages/3d/props/exterior/low-poly-pack-environment-lite-102039
+- Cola Can: https://assetstore.unity.com/packages/3d/cola-can-96659
+- Stylized Low Poly Rocks: https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-low-poly-rocks-271334
+- Boats - PolyPack: https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866
+- Fish - PolyPack: https://assetstore.unity.com/packages/3d/characters/animals/fish/fish-polypack-202232
 
