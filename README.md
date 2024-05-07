@@ -15,20 +15,21 @@ Project titles: "HW3" and "HW3 Part2"
     The former contains the files and project build for Part 1. The latter contains files for Part 2. 
 
 Project directory overview: This directory contains two directories.
-    - "HW3": Contains all files for Part 1. 
-        - "Assets/Scene/MainScene" contains the scene for the project. 
-        - "Assets/Prefabs" contains all prefabs used in the project. 
-        - "Assets/Scripts" contains all created scripts for the project. 
-        - "Assets/Sprites" contains all sprites used in the project.
-        - "Assets/Materials" contains all materials used in the project.
-    
-    - "HW3 Part2": Contains all files for Part 2.
-        - "Assets/Scene/MainScene" contains the scene for project Part 2. 
-        - "Assets/Resources" contains "HW3_scene.csv" which is the scene used in the video submission.
-        - "Assets/Resources/Prefabs" contains all prefabs used in the project, especially during load scene. 
-            NOTE: The models (meshes) are the same as Part 1 but differ in their scripts and attached components. 
-        - "Assets/Resources" contains the .csv files used during scene loading called by the LoadScene script.
-        - "Assets/Materials" contains all materials used in the project.
+
+"HW3": Contains all files for Part 1.
+- "Assets/Scene/MainScene" contains the scene for the project.
+- "Assets/Prefabs" contains all prefabs used in the project.
+- "Assets/Scripts" contains all created scripts for the project.
+-  "Assets/Sprites" contains all sprites used in the project.
+-  "Assets/Materials" contains all materials used in the project.
+
+"HW3 Part2": Contains all files for Part 2.
+- "Assets/Scene/MainScene" contains the scene for project Part 2.
+- "Assets/Resources" contains "HW3_scene.csv" which is the scene used in the video submission.
+- "Assets/Resources/Prefabs" contains all prefabs used in the project, especially during load scene. 
+NOTE: The models (meshes) are the same as Part 1 but differ in their scripts and attached components.
+- "Assets/Resources" contains the .csv files used during scene loading called by the LoadScene script.
+- "Assets/Materials" contains all materials used in the project.
         
 
 ## Special Instructions: 
@@ -42,15 +43,12 @@ Missing features: None. All required features were implemented.
 
 ## Identified Bugs
 Explanation of bugs: 
-    Part 1: 
+Part 1: 
 
-    - AR Plane from AR Foundation was used to create the mobile application for Part 1. The plane manager
-    is greatly affected by the environment and can often generate multiple overlapping planes that affect the placement of AR objects. This
-    can be mititgated by using the application in a well-lit environment with clean simple flooring. 
+- AR Plane from AR Foundation was used to create the mobile application for Part 1. The plane manager is greatly affected by the environment and can often generate multiple overlapping planes that affect the placement of AR objects. This can be mititgated by using the application in a well-lit environment with clean simple flooring. 
 
-    Part 2: 
-
-    - None.
+Part 2: 
+- None.
     
 ## References
 
